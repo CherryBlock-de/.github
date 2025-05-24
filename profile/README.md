@@ -11,27 +11,6 @@ This organization contains all repositories used to develop and maintain the Che
 - Ensure scalable and reliable backend systems
 - Collaborate efficiently across devs
 
-## 📁 Structure
-
-Repositories in this organization may include:
-
-- `cherry-core`: Shared utilities, APIs, and base modules
-- `cherry-oneblock`: Main plugin handling Oneblock progression
-- `cherry-economy`: Economy system with vault integration
-- `cherry-utils`: Inventory builders, message system, etc.
-- `infra-docker`: Docker & Pterodactyl setups for local testing
-
-## 🛠️ Development
-
-### Requirements:
-- Maven or Gradle (depending on repo)
-- Spigot or Paper (1.21+)
-- IntelliJ IDEA recommended
-
-### Environment Setup:
-Clone repos, import into IDE, and run via your local Paper server.  
-Some plugins may require a running MySQL database or Redis (check individual README files).
-
 ## 🔒 Access & Permissions
 
 This is a **private organization**. Do not share any code, configs, or credentials outside the Cherryblock team.
